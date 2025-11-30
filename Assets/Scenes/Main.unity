@@ -3653,6 +3653,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1721791747657923391, guid: 83bf037496b5f8d47ba21abb8d181de0,
         type: 3}
+      propertyPath: sprintSpeed
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 1721791747657923391, guid: 83bf037496b5f8d47ba21abb8d181de0,
+        type: 3}
       propertyPath: SprintAction.m_Name
       value: Sprint
       objectReference: {fileID: 0}

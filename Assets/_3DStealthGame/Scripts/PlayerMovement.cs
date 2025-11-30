@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("Movement Speeds")]
     public float walkSpeed = 1.0f;
-    public float sprintSpeed = 2.0f; // adjust as needed
+    public float sprintSpeed = 1.75f; // adjust as needed
     public float turnSpeed = 20f;
 
     Rigidbody m_Rigidbody;
